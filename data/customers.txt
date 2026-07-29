@@ -1,0 +1,2 @@
+CUST1001|Rohit Sharma|rohit.sharma@example.com|9876543210|Delhi, India
+CUST1002|Anjali Verma|anjali.verma@example.com|9123456780|Mumbai, India
